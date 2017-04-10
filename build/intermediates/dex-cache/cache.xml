@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\0b609f36e7754f2c0130f8fc746058b78661b62c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\user\Desktop\ChenDemo-master\FinalProject\app\build\intermediates\pre-dexed\debug\classes_79ce41d11e32069017f7613572d6d9ef85a82b17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\8ce88e67e27da2dbedb7adb4d3ce52a0c78790fc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\user\Desktop\ChenDemo-master\FinalProject\app\build\intermediates\pre-dexed\debug\classes_a7595402f35e65489b8c3f4b554b02af690d8469.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\bfc418d0b9518370c47fe6ce6d991d6a2f65d271\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\user\Desktop\ChenDemo-master\FinalProject\app\build\intermediates\pre-dexed\debug\classes_fef4912278c49f41e8fd67177cfa87ebff12addb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\fa029971028c100045d6616e3f2b578196370908\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\user\Desktop\ChenDemo-master\FinalProject\app\build\intermediates\pre-dexed\debug\classes_aa2cb05330bae01379d258a32e7fcd8f999c4645.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\ddb1d5e1ec901250d6979cf6c5d6547cb98e7840\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\user\Desktop\ChenDemo-master\FinalProject\app\build\intermediates\pre-dexed\debug\classes_de502d6344f12cac6c70da7be6139c8c721671c6.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\Desktop\ChenDemo-master\FinalProject\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\user\Desktop\ChenDemo-master\FinalProject\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_1c5eacf7801152c33e10e7f4bb8ce6dd3fb23e62\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\6973ab256f535c3b72f0f8ebcb10c2ef03f433da\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\user\Desktop\ChenDemo-master\FinalProject\app\build\intermediates\pre-dexed\debug\classes_b5c305d31190e1ea8cecc7e40c3dbb758cf04453.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\a4d0096726a5acb8124ea8803444aeb3a203fc75\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="C:\Users\user\Desktop\ChenDemo-master\FinalProject\app\build\intermediates\pre-dexed\debug\classes_13b759fb07fa8a846c74b9241cc3c27dfb24d596.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\e03f34fcdb811e7d57b62b1fdbba3fdbef198b86\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="C:\Users\user\Desktop\ChenDemo-master\FinalProject\app\build\intermediates\pre-dexed\debug\classes_6f7768eef273868569c73354c00df9dd9a084c97.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\Desktop\ChenDemo-master\FinalProject\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bc6f4af8c2b05506bc4a3a75e75b691d8984d4e0">
+        <dex dex="C:\Users\user\Desktop\ChenDemo-master\FinalProject\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_5b43df7aa007af2daa8edd2fee64fc1dbccc2a52\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\6d4f5821e4eca45501ad82f38b428edda563a93e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\user\Desktop\ChenDemo-master\FinalProject\app\build\intermediates\pre-dexed\debug\classes_1e0be7b558e0a1457218b05f6ba74228d1b9f0bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\b04e1c38f9f7c84d5bfe2fe3a3dc07e2d1d06372\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="C:\Users\user\Desktop\ChenDemo-master\FinalProject\app\build\intermediates\pre-dexed\debug\classes_806d15cb32ef6081afc869d8c8eb514085687659.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\c9170e74f2dbcceb19cad4e96a3947df199ffcdb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\user\Desktop\ChenDemo-master\FinalProject\app\build\intermediates\pre-dexed\debug\classes_1e0d9edad58b85aa0839f1ee53164978cbfa2a5b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\cdc976ca49b7504584d9118ef4dcd34fa3145b37\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\user\Desktop\ChenDemo-master\FinalProject\app\build\intermediates\pre-dexed\debug\classes_441ca7215f1a01ee8c43f36cc45335e1ed3e331b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\user\Desktop\ChenDemo-master\FinalProject\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_5548ccada9aa534b99e5bae3d17100e81aae0ecf.jar" />
+    </item>
+
+</items>
