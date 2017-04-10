@@ -1,0 +1,365 @@
+<resources>
+    <!-- All recipes are referenced from food.com-->
+    <string name="app_name">Final Project</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="recipe_name_one">Crock-Pot Chicken With Black Beans &amp; Cream Cheese</string>
+    <string name="ingredient_one">
+        4 -5 boneless chicken breasts, frozen\n
+        1 (15 ounce) can corn                \n
+        1 (15 ounce) jar salsa, any kind     \n
+        1 (15 1/2 ounce) can black beans     \n
+        1 (8 ounce) package cream cheese     \n
+    </string>
+    <string name="direction_one">
+        Take 4-5 frozen, yes, frozen, boneless chicken breasts put into crock pot.\n
+        Add 1 can of black beans, drained, 1 jar of salsa, 1 can of corn drained.\n
+        Keep in crock pot on high for about 4-5 hours or until chicken is cooked.\n
+        Add 1 package of cream cheese (just throw it on top!) and let sit for about 1/2 hour.\n
+        All done and enjoy!\n
+        Take 4-5 frozen, yes, frozen, boneless chicken breasts put into crock pot.\n
+        Add 1 can of black beans, drained, 1 jar of salsa, 1 can of corn drained.\n
+        Keep in crock pot on high for about 4-5 hours or until chicken is cooked.\n
+        Add 1 package of cream cheese (just throw it on top!) and let sit for about 1/2 hour.\n
+        All done and enjoy!\n
+    </string>
+    <string name="title_activity_custom_dialog">CustomDialog</string>
+    <string name="recipe_name_two">Beef and Zucchini Pasta Skillet Meal</string>
+    <string name="ingredient_two">
+        1 lb sirloin steak (cut into 1-inch cubes)
+        \n1 teaspoon steak seasoning (spicy flavor)
+        \n2 tablespoons canola oil (divided)
+        \n1 small vidalia onion (sliced thin)
+        \n2 garlic cloves (minced)
+        \n2 (15 1/2 ounce) cans beef broth (low fat and low sodium)
+        \n1 (15 ounce) can tomato sauce
+        \n/2 lb ditalini (or other long tubular pasta)
+        \n2 zucchini (diced into 1/4 inch cubes)
+        \n2 Italian tomatoes (diced)
+        \nbasil (to taste)
+    </string>
+    <string name="direction_two">
+        Cut steak into 1-inch cubes.
+        \nSeason with the spicy steak seasoning.
+        \nIn large non-stick skillet, heat 1 tablespoon of oil over medium-high heat.
+        \nAdd steak and cook until browned all over (approximately 3-5 minutes).
+        \nRemove steak to a plate and cover to keep warm.
+        \nAdd and heat the remaining 1 tablespoon of oil in skillet.
+        \nAdd thinly sliced onion and minced cloves of garlic - saute 5 minutes.
+        \nAdd beef broth and tomato sauce and bring to a boil.
+        \nAdd pasta and cover skillet.
+        \nSimmer for 8 minutes - stirring often.
+        \nAdd thickly diced (1/4 inch) zucchini and cook covered until zucchini is crisp-tender (approximately 6-8 minutes).
+        \nReturn steak to skillet and add diced tomatoes.
+        \nHeat everything through for 1 minute.
+        \nTop with basil (to your taste) before serving.
+    </string>
+    <string name="recipe_name_three">Crock Pot Hawaiian Chicken One-Dish Meal</string>
+    <string name="ingredient_three">
+        1 1/4 lbs chicken tenderloins
+		\n2 tablespoons soy sauce
+		\n2 medium carrots, sliced
+		\n1 (8 ounce) can sliced water chestnuts
+		\n1 (8 ounce) can pineapple chunks
+		\n1/2 cup sweet and sour sauce
+		\n2 teaspoons cornstarch
+		\n1/2 teaspoon ginger
+		\n1 (9 ounce) package frozen oriental-style vegetables
+    </string>
+    <string name="direction_three">
+	Combine chicken and soy sauce in slow cooker and mix to coat. Stir in carrots, water chestnuts, and juice only from pineapples.
+	\nCook on Low setting for 3 to 4 hours. Refrigerate pineapples until later.
+	\nTwenty minutes before serving, turn heat to High setting. Whisk together sweet and sour sauce, ginger, and cornstarch. Add to crock pot, along with pineapple and vegetables.
+	\nWhen vegetables are tender, the dish is ready to serve or hold on low. I often serve with white rice.
+	</string>
+    <string name="recipe_name_four">Crispy Baked Chicken Leg Quarters</string>
+    <string name="ingredient_four">
+	\n4 skin-on chicken leg quarters, with bone
+	\n1/2 cup soy sauce, divided
+	\n1 teaspoon garlic powder, divided
+	\n1 teaspoon seasoning salt, divided
+	\n1 teaspoon dill weed, divided
+	</string>
+    <string name="direction_four">
+	\nPreheat oven to 375.
+	\nLine a large glass baking dish with foil.
+	\nRemove excess fat from chicken quarters.
+	\nSeparate the skin from the chicken, taking care that the skin stays attached at most points on the chicken. (You just want a flap. Do not remove the skin).
+	\nBrush the chicken (under the skin) with soy sauce.
+	\nSprinkle some garlic powder, seasoned salt and dill weed on the chicken under the skin (I estimated the 1 tsp measures. Use as much or as little as you\'re comfortable with) and rub into the chicken.
+	\nArrange the leg quarters in the pan, skin side up, taking care not to crowd. They need space to cook properly.
+	\nBrush both sides of the leg quarters with soy sauce.
+	\nSprinkle the skin with garlic powder, seasoned salt and dill weed (to taste).
+	\nPlace on middle rack in over and bake uncovered for an hour.
+	\nAfter an hour, increase oven temp to 400 and bake 15 minutes.
+	\nChicken is done when internal temp reaches 165 (insert meat thermometer at thickest part of thigh, taking care not to touch the bone).
+	\nLet stand for 5 minutes before serving
+	</string>
+    <string name="recipe_name_five">Onion Pot Roast</string>
+    <string name="ingredient_five">
+	\n1 tablespoon vegetable oil
+	\n3 lbs boneless beef rump roast or 3 lbs blade roast
+	\n1 onion, chopped
+	\n2 cups beef broth
+	\n1⁄2 cup apple juice
+	\n1⁄2 cup red wine
+	\n1 (1 ounce) packet onion soup mix
+	\n1⁄2 teaspoon dried thyme
+	\n1 garlic clove, minced
+	\n4 carrots
+	\n4 potatoes
+	\n4 stalks celery
+	\ncornstarch, to thicken</string>
+    <string name="direction_five">
+	\nHeat oil in dutch oven over medium high heat.
+	\nBraise meat for about 5 minutes, turning often until browned on all sides.
+	\nRemove, set aside and keep warm.
+	\nSaute onions in dutch oven until limp.
+	\nAdd broth, apple juice, wine, onion soup mix&amp; spices and stir well.
+	\nReturn beef to dutch oven.
+	\nRoast at 325°F for 2 1/2 hours, turning beef about every 30 minutes.
+	\nCut vegetables into chunks, add to pot and cook for about another hour or until cooked to desired doneness.
+	\nRemove veggies and beef and keep warm until ready to serve; for a thicker gravy, use corn starch.</string>
+    <string name="recipe_name_six">Rheinisches Muschelessen</string>
+    <string name="ingredient_six">
+	\n6 -7 lbs mussels
+	\n1 carrot, sliced
+	\n1 leek, sliced
+	\n1 onion, diced
+	\n1⁄2 cup white wine
+	\n1⁄4 cup water
+	\n11 black peppercorns
+	\n1⁄2 teaspoon salt
+	\n1 bay leaf (optional)
+	\n1 pinch nutmeg (optional)</string>
+    <string name="direction_six">
+	\nWash every mussel thouroughly. Scrub the shells (with a stiff brush, if necessary) and rinse under cold running water. Pull the stringy "beards" out of the mussels, but you can also leave them.
+	\nDiscard any mussel, that is open. Keep them in cold water until use.
+	\nBring all other ingredients in a large pot to a hard boil.
+	\nAdd mussels and cook them for about 5 - 10 minutes or until all shells are opened. Do not overcook, as mussels will become tough and rubbery. Shake the pot during cooking, so that mussels are mixed.
+	\nTake mussels out of the pot with a slotted spoon.
+	\nServe them hot with some cooking fluid and veggies.
+	\nNOTE: To eat mussels use an empty shell as a gripper.
+	\nNOTE: For guests you can prepare the mussels in portions. So they are hot and can be served immediately from the cooking fluid.
+	\nNOTE: Typically served with a coarse rye bread, butter, salt and a glas of beer.</string>
+    <string name="recipe_name_seven">One-Pot Veggie Pasta</string>
+    <string name="ingredient_seven">
+	\n12 ounces linguine
+	\n2 cups fresh broccoli florets
+	\n1 cup fresh asparagus, cut into 1-inch pieces
+	\n2 cups sliced zucchini
+	\n1⁄2 cup fresh snow pea
+	\n1⁄2 cup frozen green pea, thawed
+	\n1⁄2 cup half-and-half cream
+	\n1⁄2 cup parmesan cheese
+	\n2 tablespoons butter, softened
+	\n1⁄4 teaspoon salt
+	\n1⁄4 teaspoon pepper</string>
+    <string name="direction_seven">
+	\nBring a large pot of water to a boil. Add linguine and boil 7 minutes, stirring occasionally.
+	\nGradually, so that the water doesn\'t stop boiling, add broccoli and asparagus. Cook 2 minutes more.
+	\nGradually add the zucchini, snow peas, and green peas. Cook 3 minutes longer.
+	\nDuring this final cooking time, put the half &amp; half, parmesan, butter, salt, and pepper in a large serving bowl.
+	\nDrain pasta and veggies well and immediately pour into the serving bowl. Toss to coat all with cream mixture. Serve at once.</string>
+    <string name="recipe_name_eight">Pork Chops With Potatoes and Onions</string>
+    <string name="ingredient_eight">
+	\n2 tablespoons vegetable oil
+	\n4 pork chops, trimmed (1/2 inch thick)
+	\n2 tablespoons all-purpose flour
+	\n1⁄3 cup parmesan cheese, grated
+	\n1⁄2 teaspoon salt
+	\n1⁄4 teaspoon pepper
+	\n4 yukon gold potatoes, thinly sliced
+	\n2 medium onions, sliced
+	\n2 beef bouillon cubes
+	\n3⁄4 cup hot water
+	\n1 tablespoon lemon juice</string>
+    <string name="direction_eight">
+	\nHeat oil in a large skillet over medium heat.
+	\nCoat the pork chops with flour, and place in the skillet.
+	\nBrown about 4 minutes on each side.
+	\nIn a small bowl, mix the Parmesan cheese, salt, and pepper.
+	\nSprinkle 1/2 the Parmesan cheese mixture over the pork chops.
+	\nLayer chops with the potatoes.
+	\nSprinkle with remaining Parmesan cheese mixture.
+	\nTop with onion slices.
+	\nIn a small bowl, dissolve the beef bouillon cubes in hot water.
+	\nStir in the lemon juice.
+	\nPour over the layered pork chops.
+	\nCover skillet, and reduce heat.
+	\nSimmer 40 minutes, until vegetables are tender and pork chops have reached an internal temperature of 160°F (70°C).</string>
+    <string name="recipe_name_nine">To Die for Crock Pot Roast</string>
+    <string name="ingredient_nine">
+	\n1 (4 -5 lb) beef roast, any kind
+	\n1 (1 1/4 ounce) package brown gravy mix, dry
+	\n1 (1 1/4 ounce) package dried Italian salad dressing mix
+	\n1 (1 1/4 ounce) package ranch dressing mix, dry
+	\n1⁄2 cup water</string>
+    \n
+    <string name="direction_nine">
+	\nPlace beef roast in crock pot.
+	\nMix the dried mixes together in a bowl and sprinkle over the roast.
+	\nPour the water around the roast.
+	\nCook on low for 7-9 hours.
+	\nUse onion soup mix instead of ranch.
+	\nAdd one cup,of red wine.
+	\nAdd potatoes,carrots,mushrooms,celery and onion 2-3 hours before end.</string>
+    <string name="recipe_name_ten">Potato Soup</string>
+    <string name="ingredient_ten">
+	\n4 cups cubed peeled potatoes
+	\n1 1⁄4 cups water
+	\n2 teaspoons chicken bouillon
+	\n1 cup sliced celery
+	\n1⁄2 cup chopped carrot
+	\n1⁄2 cup chopped onion
+	\n2 tablespoons snipped parsley
+	\n1 1⁄2 teaspoons salt
+	\n1⁄8 teaspoon pepper
+	\n1 teaspoon dill weed
+	\n4 cups milk
+	\n3 tablespoons flour
+	\n2 tablespoons butter
+	\nbacon bits (to garnish)</string>
+    <string name="direction_ten">
+	\nIn saucepan combine potatoes, water, chicken bouillon, celery, carrot, onion, parsley, salt, pepper, dill weed and butter.
+	\nCover and simmer until veggies are tender (about 15-20 minutes).
+	\nAdd 3 1/2 cups of milk heat until hot.
+	\nBlend flour with 1/2 cup milk stirring till smooth, then stir in soup.
+	\nCook, stirring constantly until smooth and bubbly.
+	\nSprinkle bacon bits over the top and serve</string>
+    <string name="recipe_name_eleven">Spanish Chicken &amp; Rice Bake</string>
+    <string name="ingredient_eleven">
+	\n1 (10 3/4 ounce) can cream of chicken soup
+	\n1 cup salsa
+	\n1⁄2 cup water
+	\n1 cup whole kernel corn
+	\n3⁄4 cup uncooked long-grain white rice
+	\n4 boneless chicken breast halves
+	\n1⁄2 teaspoon chili powder
+	\n1⁄2 cup shredded cheddar cheese
+	\n1 cup canned black beans, washed (optional)</string>
+    <string name="direction_eleven">
+	\nMix soup, salsa, water, corn, and beans (optional) and rice in 2-quart shallow baking dish.
+	\nTop with chicken (seasoned with salt and pepper) and sprinkle with chili powder.
+	\nCover tightly with casserole lid or foil.
+	\nBake at 375°F for 45 minutes or so.
+	\nSprinkle with cheese.</string>
+    <string name="recipe_name_twelve">Baja Black Beans, Corn and Rice</string>
+    <string name="ingredient_twelve">
+	\ncups cooked brown rice
+	\n1 (15 ounce) can black beans, rinsed and drained
+	\n1 (15 ounce) can corn, drained
+	\n4 fresh tomatoes, diced
+	\n1⁄2 cup red onion, chopped
+	\n1⁄2 cup cilantro, chopped
+	\n1 jalapeno pepper, seeded and diced
+	\n2 tablespoons fresh lime juice
+	\n1 tablespoon olive oil
+	\n1⁄2 teaspoon salt
+	\n1⁄4 teaspoon fresh ground pepper
+	\n2 dashes hot sauce</string>
+    <string name="direction_twelve">
+	\nCook brown rice.
+	\nIn a medium bowl, combine black beans, corn, tomatoes, onion, cilantro, jalapeno, lime juice, oil, salt, pepper and hot sauce.
+	\nTo serve, Place a scoop of hot rice in a bowl or on a plate, top with a generous scoop of the black bean mixture.
+	\nStir together before eating.</string>
+    <string name="recipe_name_thirdteen">Chicken, Shrimp and Andouille Jambalaya</string>
+    <string name="ingredient_thirdteen">
+	\n2 tablespoons extra virgin olive oil
+	\n1 1⁄2 lbs boneless skinless chicken thighs
+	\n1 lb andouille sausage, cut into 1/4 inch slices
+	\n1 large onion, chopped
+	\n2 celery ribs, diced
+	\n1⁄2green bell pepper, diced
+	\n1⁄2red bell pepper, diced
+	\n1⁄2 teaspoon dried thyme
+	\n1⁄4 teaspoon dried oregano
+	\n1⁄4 teaspoon sweet paprika
+	\n1⁄2 teaspoon salt
+	\n1⁄4-1⁄2 teaspoon cayenne pepper (optional)
+	\n1 1⁄2 cups long grain rice
+	\n1 (14 ounce) can tomatoes, chopped,with juice
+	\n2 cups chicken broth or 2 cups stock
+	\n8 ounces medium shrimp, peeled and deveined
+	\n2 tablespoons chopped fresh parsley
+	\n3 green onions, finely chopped</string>
+    <string name="direction_thirdteen">
+	\nPreheat oven to 350 degrees F.
+	\nIn a large pan or Dutch oven, brown chicken in hot oil on both sides; remove and drain.
+	\nAdd andouille, onion, celery, bell pepper, thyme, oregano, paprika, salt, and cayenne pepper to the pan, cooking and stirring for about 5 minutes until onions are tender.
+	\nAdd rice, tomatoes with juice, and broth; bring to a boil.
+	\nPlace rice mixture in a baking dish or oven-proof casserole; top with chicken; cover (can use foil) and bake at 350 degrees F for 40-45 minutes or until rice and chicken are done and tender.
+	\nStir in shrimp, parsley, and green onions; cover and cook 5-8 minutes longer or until shrimp curl and turn bright pink and serve.</string>
+    <string name="recipe_name_fourteen">Jambalaya for the Crock Pot</string>
+    <string name="ingredient_fourteen">
+	\n12 ounces boneless skinless chicken breasts
+	\n1 1⁄2 cups green peppers, chopped
+	\n1 medium onion, chopped
+	\n2 celery ribs, sliced
+	\n4 garlic cloves, minced
+	\n1 (14 ounce) can whole tomatoes
+	\n1⁄3 cup tomato paste
+	\n1 (10 1/2 ounce) can beef broth
+	\n1 tablespoon parsley
+	\n1 1⁄2 teaspoons basil
+	\n1⁄2 teaspoon oregano
+	\n1 teaspoon Tabasco sauce
+	\n1⁄2 teaspoon cayenne pepper
+	\n1⁄2 teaspoon salt
+	\n1 lb shrimp, shelled
+	\n3 cups cooked rice</string>
+    <string name="direction_fourteen">
+	\nCut chicken into 1 inch pieces.
+	\nPut all ingredients (EXCEPT shrimp and rice) in crock pot.
+	\nCover; cook on low for 8 hours.
+	\nAdd shrimp the last 20 minutes of cooking.
+	\nStir in rice before serving.</string>
+    <string name="recipe_name_fifthteen">Real English Fish and Chips With Yorkshire Beer Batter</string>
+    <string name="ingredient_fifthteen">
+	\n4 cod fish fillets or 4 haddock fillets
+	\n6 ounces plain flour
+	\n1 teaspoon bicarbonate of soda
+	\n1 (8 fluid ounce) bottlebritish beer, Small
+	\n1/2 lemon, juice of
+	\nsalt &amp; pepper
+	\nextra flour
+	\n3 lbs potatoes, peeled &amp; chipped
+	\ngood quality cooking fat or oil</string>
+    <string name="direction_fifthteen">
+	Heat fat up in a chip pan or automatic deep fat fryer - mine has a chip setting which is 190°C.
+	\nPeel the potatoes and cut into chunky sized chips. Rinse and dry thoroughly.
+	\nFry chips for about 3 minutes until soft but NOT coloured. Drain and shake well and set to one side.
+	\nPut some flour onto a plate. Dredge the fish fillets in the flour thoroughly - this is VERY important, it stops the batter sliding off when fried! Leave the fish fillets in the flour whilst you make the batter.
+	\nSome people say you should make the batter at least one hour before - I have found little difference - so make it before if it is convenient or now!
+	\nPut flour, bicarbonate of soda, salt and pepper into a large roomy bowl. Add the beer gradually, stop when you have a thick coating type of batter. Drink any beer that is left! Whisk thoroughly until it is smooth and there are no lumps.Add the lemon juice OR a splash of malt vinegar if desired. Mix thoroughly again.
+	\nHave your plates, newspaper or whatever ready for eating!
+	\nAdjust deep fat fryer to fish frying temperature of 160°C.
+	\nTake one fillet of fish at a time and holding it by the tail or thin end (!) swirl it around the batter until well coated - plunge into hot fat immediately. As soon as it has crisped up and set, add your other fillets one at a time, taking out the first ones as they cook - about 6 to 10 minutes depending on the thickness. Place onto a tray and keep warm in the oven.
+	\nTurn up the heat setting to 190°C again and cook your chips until golden and crisp.
+	\nServe on plates or newspaper with salt &amp; vinegar!
+	\nAll you need now is a pint of warm beer and Coronation Street on the TV to set the scene!
+	\nThis batter is great for small fish goujons, chicken goujons and also tempura vegetables too.</string>
+    <string-array name="urls">
+        <item>http://img.sndimg.com/food/image/upload/h_420,w_560,c_fit/v1/img/recipes/45/80/9/ggIfR8tpTUOkImhj16cV_DSC_1678-2.jpg</item>
+        <item>http://img.sndimg.com/food/image/upload/h_420,w_560,c_fit/v1/img/recipes/27/49/20/picpJc2dP.jpg</item>
+        <item>http://img.sndimg.com/food/image/upload/h_463,w_618,c_fit/v1/img/recipes/28/35/22/pic7yO7kQ.jpg</item>
+        <item>http://img.sndimg.com/food/image/upload/h_420,w_560,c_fit/v1/img/recipes/44/94/52/picbE3WCb.jpg</item>
+        <item>http://img.sndimg.com/food/image/upload/h_420,w_560,c_fit/v1/img/recipes/56/90/2/picAI1gR5.jpg</item>
+        <item>http://img.sndimg.com/food/image/upload/h_420,w_560,c_fit/v1/img/recipes/14/08/92/picxzZRSL.jpg</item>
+        <item>http://img.sndimg.com/food/image/upload/h_420,w_560,c_fit/v1/img/recipes/37/99/37/JpLgaeVbSY6VirN6kmhT_untitled-2653.jpg</item>
+        <item>http://img.sndimg.com/food/image/upload/h_420,w_560,c_fit/v1/img/recipes/26/57/14/pic24EzkM.jpg</item>
+
+        <item>http://img.sndimg.com/food/image/upload/h_420,w_560,c_fit/v1/img/recipes/27/20/8/picVfzLZo.jpg</item>
+
+        <item>http://img.sndimg.com/food/image/upload/h_420,w_560,c_fit/v1/img/recipes/45/99/0/picVTYnJW.jpg</item>
+        <item>http://img.sndimg.com/food/image/upload/h_463,w_618,c_fit/v1/img/recipes/31/51/6/picNdi7oF.jpg</item>
+        <item>http://img.sndimg.com/food/image/upload/h_420,w_560,c_fit/v1/img/recipes/55/76/8/kASmFgkHRf6yPLmv9pLE_black-beans-and-corn-3.jpg</item>
+        <item>http://img.sndimg.com/food/image/upload/h_420,w_560,c_fit/v1/img/recipes/28/16/5/picDUphVw.jpg</item>
+        <item>http://img.sndimg.com/food/image/upload/h_420,w_560,c_fit/v1/img/recipes/41/70/5/6bZc8kzDR2WRvAaaoBf6_IMG_6171%20jambalaya.jpg</item>
+        <item>http://img.sndimg.com/food/image/upload/h_420,w_560,c_fit/v1/img/recipes/18/33/99/picKiRxTG.jpg</item>
+    </string-array>
+    <string name="title_activity_change_back_ground">ChangeBackGroundActivity</string>
+
+
+</resources>
