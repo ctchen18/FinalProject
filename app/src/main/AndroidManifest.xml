@@ -21,10 +21,7 @@
 
         <service android:name=".recipe.RecipeService" />
 
-        <activity
-            android:name=".dialog.CustomDialog"
-            android:label="@string/title_activity_custom_dialog"
-            android:theme="@style/AppTheme.NoActionBar" />
+
         <activity
             android:name=".ChangeBackGroundActivity"
             android:label="@string/title_activity_change_back_ground"

@@ -119,6 +119,7 @@ public class RightFragment extends Fragment {
                 public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
                     Log.d("listViewClickAdapter",String.valueOf(position));
                         customDialog(position);
+
                 }
             });
             return view;

@@ -131,9 +131,11 @@ public class RecipeController {
     }
     public void destroy() {
         Intent stopIntent = new Intent(mContext, RecipeService.class);
-        mContext.stopService(stopIntent);
+        if(recipeReceiver!=null){
         mContext.unregisterReceiver(recipeReceiver);
         recipeReceiver = null;
+        mContext.stopService(stopIntent);}
+
     }
     public interface IRecipeStatus {
         public void onLoading();

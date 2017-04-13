@@ -226,7 +226,8 @@ public class LeftFragment extends Fragment implements View.OnTouchListener {
         }
 
         public boolean onFling(MotionEvent e1, MotionEvent e2, float velocityX, float velocityY) {
-            return super.onFling(e1, e2, velocityX, velocityY);
+            return false;
+            //return super.onFling(e1, e2, velocityX, velocityY);
         }
 
         public boolean onDoubleTap(MotionEvent e) {
@@ -272,7 +273,7 @@ public class LeftFragment extends Fragment implements View.OnTouchListener {
            // gl.setVisibility(View.VISIBLE);
             PropertyValuesHolder p1=PropertyValuesHolder.ofFloat("ScaleY",0,1);
             ObjectAnimator animator = ObjectAnimator.ofPropertyValuesHolder(gl,p1);
-            animator.setDuration(500);
+            animator.setDuration(250);
             animator.start();
         }
         public void showSet2(){
@@ -307,11 +308,12 @@ public class LeftFragment extends Fragment implements View.OnTouchListener {
                     .error(R.drawable.pic1)
                     .fit()
                     .into(img6);
+
             gl.setPivotY(0);
            // gl.setVisibility(View.VISIBLE);
             PropertyValuesHolder p1=PropertyValuesHolder.ofFloat("ScaleY",0,1);
             ObjectAnimator animator = ObjectAnimator.ofPropertyValuesHolder(gl,p1);
-            animator.setDuration(500);
+            animator.setDuration(250);
             animator.start();
         }
 }

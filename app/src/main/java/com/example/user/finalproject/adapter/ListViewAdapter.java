@@ -1,6 +1,7 @@
 package com.example.user.finalproject.adapter;
 
 import android.content.Context;
+import android.graphics.Color;
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -60,16 +61,17 @@ public class ListViewAdapter extends BaseAdapter {
             holder.lp.addRule(RelativeLayout.ALIGN_PARENT_LEFT);
         }
         else {
-
             holder=(ViewHolder) convertView.getTag();
             holder.textView1 = (TextView) convertView.findViewById(R.id.list_view_item1);
             float scale = mContext.getResources().getDisplayMetrics().density;
             int result = (int) ((int)50*scale+0.5f);
             holder.lp.setMargins(0,0,result,0);
             holder.lp.addRule(RelativeLayout.ALIGN_PARENT_RIGHT);
+            holder.textView1.setTextColor(Color.GRAY);
         }
             holder.textView1 = (TextView) convertView.findViewById(R.id.list_view_item1);
                 holder.textView1.setText(listResult.get(position));
+
 
 
         return convertView;
